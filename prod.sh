@@ -1,1 +1,0 @@
-echo "its me amar"
